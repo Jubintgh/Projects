@@ -1,0 +1,7 @@
+
+New Login: 
+Date: 20210129_130727
+Username: john
+Purchase item: shampoo,
+Purchase total: 4
+

@@ -1,0 +1,7 @@
+
+New Login: 
+Date: 20210202_123835
+Username: test8
+Purchase item: shampoo,
+Purchase total: 4
+

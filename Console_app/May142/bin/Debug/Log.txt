@@ -1,0 +1,97 @@
+
+New Login:
+Date: 20200515_190508
+Username: kaz,
+Purchase item: sos,
+Purchase total: 6
+
+New Login: 
+Date: 20200516_223206
+Username: jubintgh
+Purchase item: juul,
+Purchase total: 12
+
+
+New Login: 
+Date: 20200516_224033
+Username: jubintgh
+Purchase item: juul,
+Purchase total: 12
+
+
+New Login: 
+Date: 20210129_125217
+Username: jubintgh
+Purchase item: juul,
+Purchase total: 12
+
+
+New Login: 
+Date: 20210129_125344
+Username: jubintgh
+Purchase item: apples,
+Purchase total: 14
+
+
+New Login: 
+Date: 20210129_130314
+Username: alex
+Purchase item: apples,
+Purchase total: 14
+
+
+New Login: 
+Date: 20210129_130727
+Username: john
+Purchase item: shampoo,
+Purchase total: 4
+
+
+New Login: 
+Date: 20210129_131601
+Username: mike
+Purchase item: tea,
+Purchase total: 24
+
+
+New Login: 
+Date: 20210129_132634
+Username: mike
+Purchase item: apples,
+Purchase total: 14
+
+
+New Login: 
+Date: 20210129_133643
+Username: mike
+Purchase item: juul,wine,
+Purchase total: 258
+
+
+New Login: 
+Date: 20210131_141221
+Username: Test
+Purchase item: apples,wine,
+Purchase total: 260
+
+
+New Login: 
+Date: 20210202_123835
+Username: test8
+Purchase item: shampoo,
+Purchase total: 4
+
+
+New Login: 
+Date: 20210202_125638
+Username: test
+Purchase item: shampoo,apples,
+Purchase total: 24
+
+
+New Login: 
+Date: 20210204_135418
+Username: Nimitz
+Purchase item: keTCHUP,Juul,
+Purchase total: 21
+

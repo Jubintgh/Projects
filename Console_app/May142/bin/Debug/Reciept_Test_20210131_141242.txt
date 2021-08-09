@@ -1,0 +1,7 @@
+
+New Login: 
+Date: 20210131_141221
+Username: Test
+Purchase item: apples,wine,
+Purchase total: 260
+

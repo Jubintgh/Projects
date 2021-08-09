@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{80AEB896-F25E-44A1-8F44-BCDB8D13C6E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsFormsApp1/SignUp.cs">
+    <Files>
+      <File FileName="WindowsFormsApp1/SignUp.cs" Line="9" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WindowsFormsApp1" expanded="True">
+            <Node name="WindowsFormsApp1" expanded="True">
+              <Node name="SignUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WindowsFormsApp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,7 @@
+
+New Login: 
+Date: 20210129_131601
+Username: mike
+Purchase item: tea,
+Purchase total: 24
+

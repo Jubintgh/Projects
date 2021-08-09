@@ -1,0 +1,30 @@
+/Users/jt/Projects/May142/May142/obj/Debug/May142.csprojAssemblyReference.cache
+/Users/jt/Projects/May142/May142/obj/Debug/May142.csproj.CoreCompileInputs.cache
+/Users/jt/Projects/May142/May142/bin/Debug/May142.exe
+/Users/jt/Projects/May142/May142/bin/Debug/May142.pdb
+/Users/jt/Projects/May142/May142/obj/Debug/May142.exe
+/Users/jt/Projects/May142/May142/obj/Debug/May142.pdb
+/Users/jt/Projects/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/bin/Debug/May142.exe
+/Users/jt/Projects/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/bin/Debug/May142.pdb
+/Users/jt/Projects/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.csprojAssemblyReference.cache
+/Users/jt/Projects/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.csproj.CoreCompileInputs.cache
+/Users/jt/Projects/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.exe
+/Users/jt/Projects/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.pdb
+/Users/jt/Desktop/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/bin/Debug/May142.exe
+/Users/jt/Desktop/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/bin/Debug/May142.pdb
+/Users/jt/Desktop/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.csprojAssemblyReference.cache
+/Users/jt/Desktop/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.csproj.CoreCompileInputs.cache
+/Users/jt/Desktop/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.exe
+/Users/jt/Desktop/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.pdb
+/Users/jt/Desktop/Misc_code/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/bin/Debug/May142.exe
+/Users/jt/Desktop/Misc_code/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/bin/Debug/May142.pdb
+/Users/jt/Desktop/Misc_code/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.csprojAssemblyReference.cache
+/Users/jt/Desktop/Misc_code/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.csproj.CoreCompileInputs.cache
+/Users/jt/Desktop/Misc_code/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.exe
+/Users/jt/Desktop/Misc_code/isds309/Jubin_Taghdir_Nick_FinalProject_ISDS309 2/May142/obj/Debug/May142.pdb
+/Users/jtaghdir/Downloads/Jubin_Taghdir_ISDS309 2/May142/bin/Debug/May142.exe
+/Users/jtaghdir/Downloads/Jubin_Taghdir_ISDS309 2/May142/bin/Debug/May142.pdb
+/Users/jtaghdir/Downloads/Jubin_Taghdir_ISDS309 2/May142/obj/Debug/May142.csprojAssemblyReference.cache
+/Users/jtaghdir/Downloads/Jubin_Taghdir_ISDS309 2/May142/obj/Debug/May142.csproj.CoreCompileInputs.cache
+/Users/jtaghdir/Downloads/Jubin_Taghdir_ISDS309 2/May142/obj/Debug/May142.exe
+/Users/jtaghdir/Downloads/Jubin_Taghdir_ISDS309 2/May142/obj/Debug/May142.pdb

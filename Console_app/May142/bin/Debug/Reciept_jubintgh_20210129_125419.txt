@@ -1,0 +1,7 @@
+
+New Login: 
+Date: 20210129_125344
+Username: jubintgh
+Purchase item: apples,
+Purchase total: 14
+

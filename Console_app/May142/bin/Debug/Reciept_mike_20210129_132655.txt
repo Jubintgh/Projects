@@ -1,0 +1,7 @@
+
+New Login: 
+Date: 20210129_132634
+Username: mike
+Purchase item: apples,
+Purchase total: 14
+

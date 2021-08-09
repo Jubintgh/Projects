@@ -1,0 +1,7 @@
+
+New Login: 
+Date: 20210202_125638
+Username: test
+Purchase item: shampoo,apples,
+Purchase total: 24
+

@@ -1,0 +1,7 @@
+
+New Login: 
+Date: 20210129_133643
+Username: mike
+Purchase item: juul,wine,
+Purchase total: 258
+

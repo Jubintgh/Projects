@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{237A0126-9844-4BBE-8D47-D63AA41E4455}|Default">
+  <MonoDevelop.Ide.ItemProperties.May142 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="signupClass.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="46" />
+      <File FileName="userProperty.cs" Line="93" Column="1" />
+      <File FileName="signupClass.cs" Line="38" Column="101" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="May142" expanded="True">
+            <Node name="May142" expanded="True">
+              <Node name="signupClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

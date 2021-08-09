@@ -1,0 +1,7 @@
+Shampoo,2
+Ketchup,3
+Juul,6
+Soap,10
+Tea,12
+Wine,123
+Apples, 7
